@@ -1,0 +1,45 @@
+[03 Dec. 2021, 8:52:57 a.m.] [Ferox GameThread] Player Zoo got  from winning a duel against Cashcart
+[03 Dec. 2021, 8:52:57 a.m.] [Ferox GameThread] Player Zoo already had  from winning a duel against Cashcart
+[03 Dec. 2021, 8:52:57 a.m.] [Ferox GameThread] Player Cashcart (lvl 126) and Zoo (lvl 126) duel stake value difference of 0 BM
+[17 Jan. 2022, 4:58:25 p.m.] [Ferox GameThread] Player Akdakdfa got  from winning a duel against Zoo
+[17 Jan. 2022, 4:58:25 p.m.] [Ferox GameThread] Player Akdakdfa already had  from winning a duel against Zoo
+[17 Jan. 2022, 4:58:25 p.m.] [Ferox GameThread] Player Zoo (lvl 126) and Akdakdfa (lvl 126) duel stake value difference of 0 BM
+[17 Jan. 2022, 5:06:08 p.m.] [Ferox GameThread] Player Zoo got  from winning a duel against DahdhadAF
+[17 Jan. 2022, 5:06:08 p.m.] [Ferox GameThread] Player Zoo already had  from winning a duel against DahdhadAF
+[17 Jan. 2022, 5:06:08 p.m.] [Ferox GameThread] Player DahdhadAF (lvl 126) and Zoo (lvl 126) duel stake value difference of 0 BM
+[17 Jan. 2022, 5:09:58 p.m.] [Ferox GameThread] Player Zoo got  from winning a duel against DahdhadAF
+[17 Jan. 2022, 5:09:58 p.m.] [Ferox GameThread] Player Zoo already had  from winning a duel against DahdhadAF
+[17 Jan. 2022, 5:09:58 p.m.] [Ferox GameThread] Player DahdhadAF (lvl 126) and Zoo (lvl 126) duel stake value difference of 0 BM
+[25 Jan 2022, 6:08:27 PM] [Velrai GameThread] Player Zach got  from winning a duel against Token
+[25 Jan 2022, 6:08:27 PM] [Velrai GameThread] Player Zach already had  from winning a duel against Token
+[25 Jan 2022, 6:08:27 PM] [Velrai GameThread] Player Token (lvl 126) and Zach (lvl 126) duel stake value difference of 0 BM
+[15 Mar 2022, 1:28:00 PM] [Revolution GameThread] Player Zeus got  from winning a duel against Dank
+[15 Mar 2022, 1:28:00 PM] [Revolution GameThread] Player Zeus already had  from winning a duel against Dank
+[15 Mar 2022, 1:28:00 PM] [Revolution GameThread] Player Dank (lvl 126) and Zeus (lvl 126) duel stake value difference of 0 BM
+[15 Mar 2022, 1:28:46 PM] [Revolution GameThread] Player Dank got  from winning a duel against Zeus
+[15 Mar 2022, 1:28:46 PM] [Revolution GameThread] Player Dank already had  from winning a duel against Zeus
+[15 Mar 2022, 1:28:46 PM] [Revolution GameThread] Player Zeus (lvl 126) and Dank (lvl 126) duel stake value difference of 0 BM
+[07 Apr 2022, 1:11:35 PM] [Revolution GameThread] Player Baghz got  from winning a duel against K2
+[07 Apr 2022, 1:11:35 PM] [Revolution GameThread] Player Baghz already had  from winning a duel against K2
+[07 Apr 2022, 1:11:35 PM] [Revolution GameThread] Player K2 (lvl 124) and Baghz (lvl 122) duel stake value difference of 0 BM
+[07 Apr 2022, 1:13:30 PM] [Revolution GameThread] Player Baghz got  from winning a duel against K2
+[07 Apr 2022, 1:13:30 PM] [Revolution GameThread] Player Baghz already had  from winning a duel against K2
+[07 Apr 2022, 1:13:30 PM] [Revolution GameThread] Player K2 (lvl 124) and Baghz (lvl 122) duel stake value difference of 0 BM
+[07 Apr 2022, 1:15:27 PM] [Revolution GameThread] Player Baghz got  from winning a duel against K2
+[07 Apr 2022, 1:15:27 PM] [Revolution GameThread] Player Baghz already had  from winning a duel against K2
+[07 Apr 2022, 1:15:27 PM] [Revolution GameThread] Player K2 (lvl 124) and Baghz (lvl 122) duel stake value difference of 0 BM
+[07 Apr 2022, 1:17:48 PM] [Revolution GameThread] Player K2 got  from winning a duel against Baghz
+[07 Apr 2022, 1:17:48 PM] [Revolution GameThread] Player K2 already had  from winning a duel against Baghz
+[07 Apr 2022, 1:17:48 PM] [Revolution GameThread] Player Baghz (lvl 122) and K2 (lvl 124) duel stake value difference of 0 BM
+[07 Apr 2022, 1:21:24 PM] [Revolution GameThread] Player K2 got  from winning a duel against Baghz
+[07 Apr 2022, 1:21:24 PM] [Revolution GameThread] Player K2 already had  from winning a duel against Baghz
+[07 Apr 2022, 1:21:24 PM] [Revolution GameThread] Player Baghz (lvl 122) and K2 (lvl 124) duel stake value difference of 0 BM
+[17 Apr 2022, 7:35:29 AM] [Revolution GameThread] Player Thobeq got  from winning a duel against Test123123
+[17 Apr 2022, 7:35:29 AM] [Revolution GameThread] Player Thobeq already had  from winning a duel against Test123123
+[17 Apr 2022, 7:35:29 AM] [Revolution GameThread] Player Test123123 (lvl 126) and Thobeq (lvl 126) duel stake value difference of 0 BM
+[20 Apr 2022, 1:41:52 PM] [Revolution GameThread] Player Thobeq got  from winning a duel against Rekjr
+[20 Apr 2022, 1:41:52 PM] [Revolution GameThread] Player Thobeq already had  from winning a duel against Rekjr
+[20 Apr 2022, 1:41:52 PM] [Revolution GameThread] Player Rekjr (lvl 126) and Thobeq (lvl 126) duel stake value difference of 0 BM
+[20 Apr 2022, 1:45:58 PM] [Revolution GameThread] Player Thobeq got  from winning a duel against Rekjr
+[20 Apr 2022, 1:45:58 PM] [Revolution GameThread] Player Thobeq already had  from winning a duel against Rekjr
+[20 Apr 2022, 1:45:58 PM] [Revolution GameThread] Player Rekjr (lvl 126) and Thobeq (lvl 126) duel stake value difference of 0 BM

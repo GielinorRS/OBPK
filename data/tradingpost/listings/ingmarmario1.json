@@ -1,0 +1,56 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "ingmarmario1",
+      "saleItem": {
+        "id": 22650,
+        "amount": 1
+      },
+      "price": 600000,
+      "timeListed": 1649357488243,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ingmarmario1",
+      "saleItem": {
+        "id": 19481,
+        "amount": 1
+      },
+      "price": 750000,
+      "timeListed": 1649415168006,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ingmarmario1",
+      "saleItem": {
+        "id": 619,
+        "amount": 4
+      },
+      "price": 400000,
+      "timeListed": 1650192288331,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ingmarmario1",
+      "saleItem": {
+        "id": 22628,
+        "amount": 1
+      },
+      "price": 800000,
+      "timeListed": 1650214592507,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "tj",
+      "lastBuyerName": "Allen",
+      "saleItem": {
+        "id": 16452,
+        "amount": 2
+      },
+      "price": 270000,
+      "timeListed": 1649530331355,
+      "amountSold": 1,
+      "profit": 270000,
+      "transactionTime": 1650183173599,
+      "buyersInfo": [
+        "Allen"
+      ]
+    }
+  ]
+}

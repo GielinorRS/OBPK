@@ -1,0 +1,147 @@
+[05 Nov 2021, 1:04:27 pm] [Ferox GameThread] Patrick bought: ItemName=Armadyl chestplate ItemAmount=1 Price=65m
+[22 Nov. 2021, 2:08:08 p.m.] [Ferox GameThread] Zoo listed: ItemName=Armadyl godsword (or) ItemAmount=1 Price=1m
+[22 Nov. 2021, 2:08:10 p.m.] [Ferox GameThread] Zoo listed: ItemName=Bandos godsword (or) ItemAmount=1 Price=1m
+[22 Nov. 2021, 2:08:13 p.m.] [Ferox GameThread] Zoo listed: ItemName=$50 bond ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:08:15 p.m.] [Ferox GameThread] Zoo listed: ItemName=$100 bond ItemAmount=1 Price=100m
+[22 Nov. 2021, 2:08:17 p.m.] [Ferox GameThread] Zoo listed: ItemName=$40 bond ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:08:19 p.m.] [Ferox GameThread] Zoo listed: ItemName=$20 bond ItemAmount=1 Price=5m
+[22 Nov. 2021, 2:08:22 p.m.] [Ferox GameThread] Zoo listed: ItemName=Saradomin godsword (or) ItemAmount=1 Price=2m
+[22 Nov. 2021, 2:08:23 p.m.] [Ferox GameThread] Zoo listed: ItemName=5$ bond ItemAmount=1 Price=1m
+[22 Nov. 2021, 2:08:29 p.m.] [Ferox GameThread] Zoo listed: ItemName=Torag's helm ItemAmount=1 Price=1m
+[22 Nov. 2021, 2:08:31 p.m.] [Ferox GameThread] Zoo listed: ItemName=Dragon 2h sword ItemAmount=1 Price=1m
+[22 Nov. 2021, 2:11:44 p.m.] [Ferox GameThread] Zoo listed: ItemName=Red partyhat ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:11:46 p.m.] [Ferox GameThread] Zoo listed: ItemName=Purple partyhat ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:11:48 p.m.] [Ferox GameThread] Zoo listed: ItemName=Yellow partyhat ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:11:50 p.m.] [Ferox GameThread] Zoo listed: ItemName=Blue partyhat ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:11:53 p.m.] [Ferox GameThread] Zoo listed: ItemName=Green partyhat ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:14:26 p.m.] [Ferox GameThread] Adlad listed: ItemName=Red partyhat ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:14:28 p.m.] [Ferox GameThread] Adlad listed: ItemName=Yellow partyhat ItemAmount=1 Price=5m
+[22 Nov. 2021, 2:14:29 p.m.] [Ferox GameThread] Adlad listed: ItemName=Blue partyhat ItemAmount=1 Price=5m
+[22 Nov. 2021, 2:14:31 p.m.] [Ferox GameThread] Adlad listed: ItemName=Green partyhat ItemAmount=1 Price=2m
+[22 Nov. 2021, 2:14:33 p.m.] [Ferox GameThread] Adlad listed: ItemName=Bandos godsword (or) ItemAmount=1 Price=2m
+[22 Nov. 2021, 2:14:35 p.m.] [Ferox GameThread] Adlad listed: ItemName=White partyhat ItemAmount=1 Price=2m
+[22 Nov. 2021, 2:14:37 p.m.] [Ferox GameThread] Adlad listed: ItemName=Purple partyhat ItemAmount=1 Price=2m
+[22 Nov. 2021, 2:14:39 p.m.] [Ferox GameThread] Adlad listed: ItemName=Saradomin godsword (or) ItemAmount=1 Price=2m
+[22 Nov. 2021, 2:15:16 p.m.] [Ferox GameThread] Adlad listed: ItemName=Armadyl godsword ItemAmount=1 Price=1m
+[22 Nov. 2021, 2:15:17 p.m.] [Ferox GameThread] Adlad listed: ItemName=Bandos godsword ItemAmount=1 Price=2m
+[22 Nov. 2021, 2:15:19 p.m.] [Ferox GameThread] Adlad listed: ItemName=Armadyl godsword (or) ItemAmount=1 Price=5m
+[23 Jan 2022, 8:36:16 PM] [Velrai GameThread] Zach listed: ItemName=Saradomin godsword ItemAmount=1 Price=1.5k
+[29 Jan 2022, 1:20:49 AM] [Velrai GameThread] Zennu successfully canceled the offer for: Trident of the swamp
+[29 Jan 2022, 1:21:46 AM] [Velrai GameThread] Zoo successfully canceled the offer for: Armadyl godsword (or)
+[29 Jan 2022, 1:21:49 AM] [Velrai GameThread] Zoo successfully canceled the offer for: $100 bond
+[29 Jan 2022, 1:21:51 AM] [Velrai GameThread] Zoo successfully canceled the offer for: $40 bond
+[29 Jan 2022, 1:21:54 AM] [Velrai GameThread] Zoo successfully canceled the offer for: $20 bond
+[29 Jan 2022, 1:21:56 AM] [Velrai GameThread] Zoo successfully canceled the offer for: $50 bond
+[29 Jan 2022, 1:22:02 AM] [Velrai GameThread] Zoo successfully canceled the offer for: 5$ bond
+[29 Jan 2022, 1:22:07 AM] [Velrai GameThread] Zoo successfully canceled the offer for: Red partyhat
+[29 Jan 2022, 1:22:08 AM] [Velrai GameThread] Zoo successfully canceled the offer for: Purple partyhat
+[29 Jan 2022, 1:22:10 AM] [Velrai GameThread] Zoo successfully canceled the offer for: Yellow partyhat
+[29 Jan 2022, 1:22:13 AM] [Velrai GameThread] Zoo successfully canceled the offer for: Blue partyhat
+[29 Jan 2022, 1:22:15 AM] [Velrai GameThread] Zoo successfully canceled the offer for: Green partyhat
+[29 Jan 2022, 1:23:24 AM] [Velrai GameThread] Billybob successfully canceled the offer for: Enchanted armadyl helmet
+[29 Jan 2022, 1:23:26 AM] [Velrai GameThread] Billybob successfully canceled the offer for: Blood money pet
+[29 Jan 2022, 1:23:31 AM] [Velrai GameThread] Billybob successfully canceled the offer for: Harmonised orb
+[29 Jan 2022, 1:23:33 AM] [Velrai GameThread] Billybob successfully canceled the offer for: Amulet of torture (or)
+[29 Jan 2022, 1:23:38 AM] [Velrai GameThread] Billybob successfully canceled the offer for: Toxic blowpipe
+[29 Jan 2022, 1:30:52 AM] [Velrai GameThread] Off offer claimed for: Larran's key tier III Received=340000 blood money
+[29 Jan 2022, 1:31:34 AM] [Velrai GameThread] Off successfully canceled the offer for: Twisted bow
+[30 Jan 2022, 12:32:29 PM] [Velrai GameThread] Zach listed: ItemName=Sword of gryffindor ItemAmount=1 Price=2147m
+[30 Jan 2022, 2:10:49 PM] [Velrai GameThread] Evil listed: ItemName=Dragon boots ItemAmount=1 Price=10k
+[30 Jan 2022, 2:33:49 PM] [Velrai GameThread] Evil successfully canceled the offer for: Dragon boots
+[25 Feb 2022, 5:36:14 PM] [Velrai GameThread] OUREVILSINS listed: ItemName=Armadyl godsword ItemAmount=1 Price=5k
+[25 Feb 2022, 6:11:25 PM] [Velrai GameThread] Zeus bought: ItemName=Armadyl godsword ItemAmount=1 Price=5k
+[25 Feb 2022, 6:11:38 PM] [Velrai GameThread] OUREVILSINS offer claimed for: Armadyl godsword Received=5000 blood money
+[26 Feb 2022, 1:18:20 PM] [Velrai GameThread] Dank listed: ItemName=Armadyl godsword ItemAmount=1 Price=150k
+[10 Mar 2022, 9:19:30 AM] [Revolution GameThread] Optic listed: ItemName=Sanguine scythe of vitur ItemAmount=1 Price=200.000b
+[10 Mar 2022, 9:21:42 AM] [Revolution GameThread] Optic listed: ItemName=Donator ticket ItemAmount=1 Price=50m
+[10 Mar 2022, 9:22:01 AM] [Revolution GameThread] Optic successfully canceled the offer for: Donator ticket
+[10 Mar 2022, 9:22:08 AM] [Revolution GameThread] Optic listed: ItemName=Donator ticket ItemAmount=603500 Price=50m
+[10 Mar 2022, 10:21:33 AM] [Revolution GameThread] Optic successfully canceled the offer for: Donator ticket
+[13 Mar 2022, 9:20:03 PM] [Revolution GameThread] 420 listed: ItemName=Kerberos pet ItemAmount=1 Price=1
+[13 Mar 2022, 9:21:05 PM] [Revolution GameThread] 420 successfully canceled the offer for: Kerberos pet
+[13 Mar 2022, 9:21:11 PM] [Revolution GameThread] 420 listed: ItemName=Totemic platelegs ItemAmount=1 Price=1
+[13 Mar 2022, 9:21:15 PM] [Revolution GameThread] 420 listed: ItemName=Totemic platebody ItemAmount=1 Price=1
+[13 Mar 2022, 9:21:19 PM] [Revolution GameThread] 420 listed: ItemName=Totemic helmet ItemAmount=1 Price=1
+[13 Mar 2022, 9:21:30 PM] [Revolution GameThread] 420 listed: ItemName=Sanguine scythe of vitur ItemAmount=1 Price=1
+[13 Mar 2022, 9:21:36 PM] [Revolution GameThread] 420 listed: ItemName=Kerberos pet ItemAmount=1 Price=1
+[13 Mar 2022, 9:21:50 PM] [Revolution GameThread] 420 listed: ItemName=Donator ticket ItemAmount=301750 Price=1
+[13 Mar 2022, 9:22:17 PM] [Revolution GameThread] 420 listed: ItemName=Weapon Mystery Box ItemAmount=5 Price=1
+[13 Mar 2022, 9:22:22 PM] [Revolution GameThread] 420 listed: ItemName=Ring of perfection ItemAmount=9 Price=1
+[13 Mar 2022, 9:22:32 PM] [Revolution GameThread] 420 listed: ItemName=Talonhawk crossbow ItemAmount=7 Price=1
+[13 Mar 2022, 9:22:39 PM] [Revolution GameThread] 420 listed: ItemName=Enchanted armadyl helmet ItemAmount=4 Price=1
+[13 Mar 2022, 9:22:45 PM] [Revolution GameThread] 420 listed: ItemName=Armour mystery box ItemAmount=2 Price=1
+[13 Mar 2022, 9:22:54 PM] [Revolution GameThread] 420 listed: ItemName=Revenant ether ItemAmount=100000 Price=1
+[17 Mar 2022, 2:18:38 PM] [Revolution GameThread] Itsdank2 listed: ItemName=Dragon crossbow ItemAmount=1 Price=500k
+[17 Mar 2022, 2:20:03 PM] [Revolution GameThread] Dank bought: ItemName=Dragon crossbow ItemAmount=1 Price=500k
+[17 Mar 2022, 2:20:10 PM] [Revolution GameThread] Itsdank2 offer claimed for: Dragon crossbow Received=500000 blood money
+[18 Mar 2022, 1:15:42 AM] [Revolution GameThread] Dank successfully canceled the offer for: Armadyl godsword
+[18 Mar 2022, 1:15:49 AM] [Revolution GameThread] Dank listed: ItemName=Armadyl godsword ItemAmount=1 Price=150k
+[19 Mar 2022, 4:30:51 PM] [Revolution GameThread] 2much listed: ItemName=Sanguine scythe of vitur ItemAmount=1 Price=2000m
+[20 Mar 2022, 5:12:10 PM] [Revolution GameThread] 2much successfully canceled the offer for: Sanguine scythe of vitur
+[26 Mar 2022, 6:40:25 AM] [Revolution GameThread] Martian listed: ItemName=Dragonfire shield ItemAmount=1 Price=40k
+[26 Mar 2022, 6:40:36 AM] [Revolution GameThread] Martian successfully canceled the offer for: Dragonfire shield
+[26 Mar 2022, 6:40:46 AM] [Revolution GameThread] Martian listed: ItemName=Dragonfire shield ItemAmount=3 Price=40k
+[26 Mar 2022, 6:40:59 AM] [Revolution GameThread] Martian successfully canceled the offer for: Dragonfire shield
+[26 Mar 2022, 8:55:03 PM] [Revolution GameThread] Bens listed: ItemName=Bandos godsword ItemAmount=1 Price=40k
+[26 Mar 2022, 8:56:31 PM] [Revolution GameThread] Bens successfully canceled the offer for: Bandos godsword
+[26 Mar 2022, 8:56:35 PM] [Revolution GameThread] Bens listed: ItemName=Bandos godsword ItemAmount=1 Price=35k
+[26 Mar 2022, 8:57:21 PM] [Revolution GameThread] Bens successfully canceled the offer for: Bandos godsword
+[27 Mar 2022, 1:40:31 PM] [Revolution GameThread] Itsdank listed: ItemName=Odium ward ItemAmount=1 Price=20k
+[27 Mar 2022, 3:14:01 PM] [Revolution GameThread] 2much listed: ItemName=Pet mystery box ItemAmount=1 Price=550k
+[27 Mar 2022, 3:16:00 PM] [Revolution GameThread] 2much bought: ItemName=Odium ward ItemAmount=1 Price=20k
+[27 Mar 2022, 8:23:03 PM] [Revolution GameThread] Herb listed: ItemName=Bandos godsword ItemAmount=1 Price=40k
+[28 Mar 2022, 9:47:23 AM] [Revolution GameThread] Itsdank offer claimed for: Odium ward Received=20000 blood money
+[28 Mar 2022, 7:25:10 PM] [Revolution GameThread] Randy listed: ItemName=Dementor pet ItemAmount=1 Price=15m
+[28 Mar 2022, 7:25:13 PM] [Revolution GameThread] Randy successfully canceled the offer for: Dementor pet
+[28 Mar 2022, 7:25:20 PM] [Revolution GameThread] Randy listed: ItemName=Dementor pet ItemAmount=1 Price=20m
+[29 Mar 2022, 3:10:20 AM] [Revolution GameThread] Martian bought: ItemName=Bandos godsword ItemAmount=1 Price=40k
+[29 Mar 2022, 2:25:54 PM] [Revolution GameThread] Itsdank listed: ItemName=Imbued heart ItemAmount=1 Price=100k
+[29 Mar 2022, 2:26:05 PM] [Revolution GameThread] Itsdank successfully canceled the offer for: Imbued heart
+[29 Mar 2022, 2:26:16 PM] [Revolution GameThread] Itsdank listed: ItemName=Imbued heart ItemAmount=1 Price=200k
+[29 Mar 2022, 6:04:14 PM] [Revolution GameThread] Randy successfully canceled the offer for: Dementor pet
+[29 Mar 2022, 10:24:03 PM] [Revolution GameThread] Im Sorry bought: ItemName=Imbued heart ItemAmount=1 Price=200k
+[30 Mar 2022, 9:37:53 AM] [Revolution GameThread] Im Sorry listed: ItemName=Imbued heart ItemAmount=1 Price=500k
+[30 Mar 2022, 3:26:50 PM] [Revolution GameThread] Lost bought: ItemName=Pet mystery box ItemAmount=1 Price=550k
+[31 Mar 2022, 1:30:37 AM] [Revolution GameThread] Itsdank offer claimed for: Imbued heart Received=200000 blood money
+[04 Apr 2022, 11:21:45 PM] [Revolution GameThread] Im Sorry listed: ItemName=Pet mystery box ItemAmount=1 Price=750k
+[05 Apr 2022, 4:51:43 PM] [Revolution GameThread] 2much offer claimed for: Pet mystery box Received=550000 blood money
+[06 Apr 2022, 4:17:08 PM] [Revolution GameThread] Ingmarmario1 listed: ItemName=Zuriel's hood ItemAmount=1 Price=1.2m
+[06 Apr 2022, 4:58:15 PM] [Revolution GameThread] Ingmarmario1 listed: ItemName=Vote ticket ItemAmount=3 Price=350k
+[07 Apr 2022, 3:43:06 AM] [Revolution GameThread] Ingmarmario1 successfully canceled the offer for: Vote ticket
+[07 Apr 2022, 3:43:11 AM] [Revolution GameThread] Ingmarmario1 listed: ItemName=Vote ticket ItemAmount=3 Price=200k
+[07 Apr 2022, 4:30:55 AM] [Revolution GameThread] Ingmarmario1 listed: ItemName=Pet mystery box ItemAmount=1 Price=450k
+[07 Apr 2022, 10:52:40 AM] [Revolution GameThread] Ingmarmario1 successfully canceled the offer for: Pet mystery box
+[07 Apr 2022, 2:50:37 PM] [Revolution GameThread] Herb offer claimed for: Bandos godsword Received=40000 blood money
+[07 Apr 2022, 2:51:24 PM] [Revolution GameThread] Ingmarmario1 successfully canceled the offer for: Zuriel's hood
+[07 Apr 2022, 2:51:28 PM] [Revolution GameThread] Ingmarmario1 listed: ItemName=Zuriel's hood ItemAmount=1 Price=600k
+[07 Apr 2022, 2:53:49 PM] [Revolution GameThread] Ingmarmario1 successfully canceled the offer for: Vote ticket
+[08 Apr 2022, 6:50:39 AM] [Revolution GameThread] Ingmarmario1 listed: ItemName=Donator mystery box ItemAmount=2 Price=375k
+[08 Apr 2022, 6:50:43 AM] [Revolution GameThread] Ingmarmario1 listed: ItemName=Armour mystery box ItemAmount=2 Price=275k
+[08 Apr 2022, 6:52:48 AM] [Revolution GameThread] Ingmarmario1 listed: ItemName=Heavy ballista ItemAmount=1 Price=750k
+[09 Apr 2022, 1:18:30 PM] [Revolution GameThread] X1 listed: ItemName=Donator mystery box ItemAmount=1 Price=1m
+[09 Apr 2022, 1:18:49 PM] [Revolution GameThread] X1 successfully canceled the offer for: Donator mystery box
+[09 Apr 2022, 1:18:57 PM] [Revolution GameThread] X1 listed: ItemName=Donator mystery box ItemAmount=1 Price=370k
+[09 Apr 2022, 2:52:11 PM] [Revolution GameThread] TJ listed: ItemName=Armour mystery box ItemAmount=2 Price=270k
+[13 Apr 2022, 11:37:52 AM] [Revolution GameThread] X1 successfully canceled the offer for: Donator mystery box
+[13 Apr 2022, 11:38:16 AM] [Revolution GameThread] X1 listed: ItemName=Donator mystery box ItemAmount=1 Price=999k
+[13 Apr 2022, 11:38:20 AM] [Revolution GameThread] X1 successfully canceled the offer for: Donator mystery box
+[15 Apr 2022, 5:13:14 AM] [Revolution GameThread] Endless listed: ItemName=Armadyl helmet ItemAmount=1 Price=50k
+[15 Apr 2022, 5:13:19 AM] [Revolution GameThread] Endless listed: ItemName=Armadyl chestplate ItemAmount=1 Price=50k
+[15 Apr 2022, 5:13:24 AM] [Revolution GameThread] Endless listed: ItemName=Armadyl chainskirt ItemAmount=1 Price=50k
+[16 Apr 2022, 10:34:19 AM] [Revolution GameThread] Endless successfully canceled the offer for: Armadyl helmet
+[16 Apr 2022, 10:34:22 AM] [Revolution GameThread] Endless successfully canceled the offer for: Armadyl chestplate
+[16 Apr 2022, 10:34:24 AM] [Revolution GameThread] Endless successfully canceled the offer for: Armadyl chainskirt
+[16 Apr 2022, 6:05:25 PM] [Revolution GameThread] Alfieissmexy listed: ItemName=Occult necklace ItemAmount=10 Price=200k
+[16 Apr 2022, 6:06:59 PM] [Revolution GameThread] Alfieissmexy successfully canceled the offer for: Occult necklace
+[17 Apr 2022, 4:12:53 AM] [Revolution GameThread] Allen bought: ItemName=Armour mystery box ItemAmount=1 Price=270k
+[17 Apr 2022, 6:44:48 AM] [Revolution GameThread] Ingmarmario1 listed: ItemName=Vote ticket ItemAmount=4 Price=400k
+[17 Apr 2022, 8:20:26 AM] [Revolution GameThread] Thobeq listed: ItemName=Armadyl godsword ItemAmount=1 Price=150k
+[17 Apr 2022, 8:20:35 AM] [Revolution GameThread] Thobeq successfully canceled the offer for: Armadyl godsword
+[17 Apr 2022, 8:20:41 AM] [Revolution GameThread] Thobeq listed: ItemName=Armadyl godsword ItemAmount=2 Price=150k
+[17 Apr 2022, 11:43:37 AM] [Revolution GameThread] Thobeq successfully canceled the offer for: Armadyl godsword
+[17 Apr 2022, 12:29:14 PM] [Revolution GameThread] Ingmarmario1 successfully canceled the offer for: Armour mystery box
+[17 Apr 2022, 12:29:25 PM] [Revolution GameThread] Ingmarmario1 successfully canceled the offer for: Donator mystery box
+[17 Apr 2022, 12:56:32 PM] [Revolution GameThread] Ingmarmario1 listed: ItemName=Statius's platebody ItemAmount=1 Price=800k
+[18 Apr 2022, 12:55:39 AM] [Revolution GameThread] Highelf listed: ItemName=Dragon crossbow ItemAmount=1 Price=450k
+[18 Apr 2022, 1:12:35 AM] [Revolution GameThread] Highelf successfully canceled the offer for: Dragon crossbow
+[18 Apr 2022, 2:07:33 PM] [Revolution GameThread] Bens listed: ItemName=Toxic blowpipe ItemAmount=1 Price=1m

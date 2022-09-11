@@ -1,0 +1,125 @@
+[
+  {
+    "name": "Nightmare",
+    "face": 0,
+    "type": 10,
+    "id": 2157,
+    "tile": {
+      "x": 3091,
+      "y": 3494,
+      "z": 0
+    }
+  },
+  {
+    "name": "Anvil",
+    "face": 0,
+    "type": 10,
+    "id": 6150,
+    "tile": {
+      "x": 3109,
+      "y": 3500,
+      "z": 0
+    }
+  },
+  {
+    "name": "magic theiv stalls",
+    "face": 0,
+    "type": 10,
+    "id": 4877,
+    "tile": {
+      "x": 3087,
+      "y": 3484,
+      "z": 0
+    }
+  },
+  {
+    "name": "Altar Of the occult",
+    "face": 0,
+    "type": 10,
+    "id": 31923,
+    "tile": {
+      "x": 3098,
+      "y": 3512,
+      "z": 0
+    }
+  },
+  {
+
+    "name": "Bank Chest",
+    "face": 0,
+    "type": 10,
+    "id": 2693,
+    "tile": {
+      "x": 3093,
+      "y": 3514,
+      "z": 0
+    }
+  },
+  {
+    "name": "Bank Chest",
+    "face": 0,
+    "type": 10,
+    "id": 2693,
+    "tile": {
+      "x": 3098,
+      "y": 3514,
+      "z": 0
+    }
+  },
+  {
+    "name": "crafting theiv stalls",
+    "face": 0,
+    "type": 10,
+    "id": 4874,
+    "tile": {
+      "x": 3097,
+      "y": 3484,
+      "z": 0
+    }
+  },
+  {
+    "name": "general theiv stalls",
+    "face": 0,
+    "type": 10,
+    "id": 4876,
+    "tile": {
+      "x": 3095,
+      "y": 3484,
+      "z": 0
+    }
+  },
+  {
+    "name": "scim theiv stalls",
+    "face": 0,
+    "type": 10,
+    "id": 4878,
+    "tile": {
+      "x": 3085,
+      "y": 3484,
+      "z": 0
+    }
+  },
+  {
+    "name": "Pool by ditch",
+    "face": 0,
+    "type": 10,
+    "id": 29241,
+    "tile": {
+      "x": 3091,
+      "y": 3512,
+      "z": 0
+    }
+  },
+  {
+    "name": "Wildy key chest",
+    "face": 0,
+    "type": 10,
+    "id": 27269,
+    "tile": {
+      "x": 3080,
+      "y": 3512,
+      "z": 0
+    }
+  }
+
+]

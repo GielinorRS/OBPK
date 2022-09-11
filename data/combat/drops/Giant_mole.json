@@ -1,0 +1,140 @@
+{
+  "npcs": [
+    5779,
+    6499
+  ],
+  "petItem": 12646,
+  "petRarity": 1500,
+  "guaranteed": [
+    {
+      "id": 532,
+      "min": 1,
+      "max": 1
+    },
+    //Big bones
+    {
+      "id": 7416,
+      "min": 1,
+      "max": 1
+    },
+    //Mole claw
+    {
+      "id": 7418,
+      "min": 1,
+      "max": 3
+    },
+    //Mole skin
+    { "id": 13307,
+      "min": 100,
+      "max": 250
+      //bm always
+    }
+  ],
+  "tables": [
+    {
+      "name": "Unique",
+      "points": 1,
+      "items": [
+        {
+          "id": 13442,
+          "min": 10,
+          "max": 30,
+          "points": 55
+        },
+        //Anglerfish (noted)
+        { "id": 13307,
+          "min": 1000,
+          "max": 3500,
+          "points": 25
+          //bm chance
+        },
+        {
+          "id": 23686,
+          "min": 2,
+          "max": 10,
+          "points": 50
+        },
+        //Divine super combat potion(4) (noted)
+        {
+          "id": 12914,
+          "min": 5,
+          "max": 10,
+          "points": 45
+        },
+        //Anti-venom+(4) (noted)
+        {
+          "id": 21979,
+          "min": 2,
+          "max": 10,
+          "points": 45
+        },
+        //Super antifire potion(4) (noted)
+        {
+          "id": 11840,
+          "min": 1,
+          "max": 1,
+          "points": 35
+        },
+        //Dragon boots
+        {
+          "id": 6585,
+          "min": 1,
+          "max": 1,
+          "points": 35
+        },
+        //Amulet of fury
+        {
+          "id": 12877,
+          "min": 1,
+          "max": 1,
+          "points": 30
+        },
+        //DH set
+        {
+          "id": 16451,
+          "min": 1,
+          "max": 1,
+          "points": 25
+        },
+        {
+          "id": 16452,
+          "min": 1,
+          "max": 1,
+          "points": 25
+        },
+        {
+          "id": 30185,
+          "min": 1,
+          "max": 1,
+          "points": 25
+        },
+        {
+          "id": 13652,
+          "min": 1,
+          "max": 1,
+          "points": 3
+        },
+        //Claws
+        {
+          "id": 11802,
+          "min": 1,
+          "max": 1,
+          "points": 3
+        },
+        //Claws
+        {
+          "id": 2944,
+          "min": 1,
+          "max": 1,
+          "points": 3
+        }
+        //Key of drops
+      ]
+    },
+    {
+      "name": "Other",
+      "points": 5,
+      "items": []
+    }
+  ]
+}

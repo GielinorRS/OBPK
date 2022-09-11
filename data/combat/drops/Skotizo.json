@@ -1,0 +1,46 @@
+{
+  "npcs": [ 7286 ],
+  "petItem": 21273,
+  "petRarity": 1000,
+  "tables": [
+    {
+      "name": "Unique",
+      "points": 3,
+      "items": [
+        { "id": 985, "min": 1, "max": 1, "points": 70 }, //Tooth half of a key
+        { "id": 987, "min": 1, "max": 1, "points": 70 }, //Loop half of a key
+        { "id": 989, "min": 1, "max": 1, "points": 65 }, //Crystal key
+        { "id": 11133, "min": 1, "max": 1, "points": 70 }, //Regen bracelet
+        { "id": 6731, "min": 1, "max": 1, "points": 70 }, //Seers ring
+        { "id": 6733, "min": 1, "max": 1, "points": 70 }, //Archers ring
+        { "id": 6735, "min": 1, "max": 1, "points": 70 }, //Warriors ring
+        { "id": 6737, "min": 1, "max": 1, "points": 65 }, //Berserker ring
+        { "id": 12601, "min": 1, "max": 1, "points": 65 }, //Ring of the gods
+        { "id": 12603, "min": 1, "max": 1, "points": 65 }, //Tyrannical ring
+        { "id": 12605, "min": 1, "max": 1, "points": 65 }, //Treasonous ring
+        { "id": 20849, "min": 10, "max": 30, "points": 100 }, //Dragon thrownaxe
+        { "id": 22804, "min": 10, "max": 30, "points": 90 }, //Dragon knife
+        { "id": 22806, "min": 10, "max": 30, "points": 90 }, //Dragon knife p
+        { "id": 22808, "min": 10, "max": 30, "points": 90 }, //Dragon knife p+
+        { "id": 22810, "min": 10, "max": 30, "points": 90 }, //Dragon knife p++
+        { "id": 19484, "min": 10, "max": 30, "points": 90 }, //Dragon javelin
+        { "id": 19490, "min": 10, "max": 30, "points": 90 }, //Dragon javelin p++
+        { "id": 21275, "min": 1, "max": 1, "points": 35 }, //Dark claw
+        { "id": 19701, "min": 1, "max": 1, "points": 45 }, //Jar of darkness
+        { "id": 22002, "min": 1, "max": 1, "points": 60 }, //Dragonfire ward
+        { "id": 21633, "min": 1, "max": 1, "points": 60 }, //Ancient wyvern shield
+        { "id": 21012, "min": 1, "max": 1, "points": 55 }, //Dragon hunter crossbow
+        { "id": 11286, "min": 1, "max": 1, "points": 50 }, //Draconic visage
+        { "id": 16454, "min": 1, "max": 1, "points": 15 }, //Legendary box
+        { "id": 22326, "min": 1, "max": 1, "points": 6 }, //Justiciar facegaurd
+        { "id": 22327, "min": 1, "max": 1, "points": 6 }, //Justiciar chestgaurd
+        { "id": 22328, "min": 1, "max": 1, "points": 6 } //Justiciar leggaurds
+      ]
+    },
+    {
+      "name": "Empty",
+      "points": 1,
+      "items": []
+    }
+  ]
+}

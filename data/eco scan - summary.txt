@@ -1,0 +1,111 @@
+The players with the most wealth are: 
+Zeus B4-2E-99-ED-0E-87 =2,124,995,793 bm
+Chuggy F8-34-41-62-40-94 =768,839,364 bm
+Bill Clittin 64-27-37-32-E0-47 =270,934,325 bm
+Hitz C0-B6-F9-94-D6-26 =54,128,674 bm
+Noob Owns 44-8A-5B-29-30-4B =51,123,246 bm
+Mrs Zeus B4-2E-99-ED-0E-87 =32,278,190 bm
+Lano 1C-69-7A-38-BE-94 =29,145,705 bm
+Runescape Og 94-B8-6D-C5-67-B9 =25,862,500 bm
+R 70-85-C2-84-B8-6E =16,126,489 bm
+Martian 7A-79-19-14-39-99 =13,888,666 bm
+ 
+Scanned 381 offline players.
+The total BM cash for all 381 players is: 2,167,688,234
+The total BM wealth for all 381 players is: 3,604,850,982
+The total item count for all 381 players is: 19,646
+The total REFERRAL by name count for all 381 players is: 0
+The total VOTES count for all 381 players is: 227
+The total ELY for all 381 players is: 1
+The total ARCANE for all 381 players is: 4
+The total AGS for all 381 players is: 59
+The total AGS OR for all 381 players is: 7
+The total ANCIENT VLS for all 381 players is: 0
+The total ANCIENT SWH for all 381 players is: 3
+The total FACEGUARD for all 381 players is: 17
+The total ANCIENT FACEGUARD for all 381 players is: 1
+The total DHL for all 381 players is: 0
+The total 5 BOND for all 381 players is: 11
+The total 10 BOND for all 381 players is: 6
+The total 20 BOND for all 381 players is: 0
+The total 40 BOND for all 381 players is: 0
+The total 50 BOND for all 381 players is: 10
+The total 100 BOND for all 381 players is: 0
+The total WYVERN SHIELD for all 381 players is: 14
+The total DRAGONFIRE WARD for all 381 players is: 1
+The total SANG SCYTHE for all 381 players is: 5
+The total HOLY SCYTHE for all 381 players is: 0
+The total SCYTHE for all 381 players is: 0
+The total TBOW for all 381 players is: 2
+The total TBOW (I) for all 381 players is: 2
+The total SANG TBOW for all 381 players is: 5
+The total ELDER MAUL for all 381 players is: 15
+The total INFERNAL CAPE for all 381 players is: 24
+The total SERP for all 381 players is: 19
+The total TSOTD for all 381 players is: 20
+The total CRAWS BOW for all 381 players is: 12
+The total VIG MACE for all 381 players is: 8
+The total CRAWS BOW C for all 381 players is: 5
+The total VIG MACE C for all 381 players is: 0
+The total FERO GLOVES for all 381 players is: 9
+The total AVERNIC DEFENDER for all 381 players is: 11
+The total PRIMORDIAL for all 381 players is: 24
+The total PEGASIAN for all 381 players is: 26
+The total ETERNAL for all 381 players is: 23
+The total PRIMORDIAL OR for all 381 players is: 0
+The total PEGASIAN OR for all 381 players is: 3
+The total ETERNAL OR for all 381 players is: 2
+The total CORRUPTED BOOTS for all 381 players is: 9
+The total FEROX COINS for all 381 players is: 98,501
+The total ANCETSTRAL HAT for all 381 players is: 1
+The total ANCESTRAL TOP for all 381 players is: 2
+The total ANCESTRAL BOTTOM for all 381 players is: 2
+The total TWISTED ANCETSTRAL HAT for all 381 players is: 1
+The total TWISTED ANCESTRAL TOP for all 381 players is: 1
+The total TWISTED ANCESTRAL BOTTOM for all 381 players is: 1
+The total DRAGON CLAWS for all 381 players is: 25
+The total DRAGON CLAWS OR for all 381 players is: 3
+The total DARK ELDER MAUL for all 381 players is: 0
+The total JAWA PET for all 381 players is: 0
+The total ZRIAWK PET for all 381 players is: 2
+The total FAWKES PET for all 381 players is: 1
+The total RECOLORED FAWKES PET for all 381 players is: 3
+The total NIFFLER PET for all 381 players is: 4
+The total WAMPA PET for all 381 players is: 0
+The total BABY ARAGOG PET for all 381 players is: 1
+The total MINI NECROMANCER PET for all 381 players is: 2
+The total CORRUPTED NECHRYARCH PET for all 381 players is: 1
+The total GRIM REAPER PET for all 381 players is: 0
+The total KERBEROS PET for all 381 players is: 2
+The total SKORPIOS PET for all 381 players is: 0
+The total ARACHNE PET for all 381 players is: 0
+The total ARTIO PET for all 381 players is: 2
+The total LITTLE NIGHTMARE PET for all 381 players is: 2
+The total DEMENTOR PET for all 381 players is: 2
+The total FENRIR GREYBACK JR PET for all 381 players is: 1
+The total FLUFFY JR PET for all 381 players is: 0
+The total ANCIENT KBD PET for all 381 players is: 0
+The total ANCIENT CHAOS ELE PET for all 381 players is: 0
+The total ANCIENT BARRELCHEST PET for all 381 players is: 2
+The total FOUNDER IMP PET for all 381 players is: 1
+The total BABY LAVA DRAGON PET for all 381 players is: 6
+The total JALTOK JAD PET for all 381 players is: 1
+The total TZREK ZUK PET for all 381 players is: 2
+The total RING OF ELYSIAN for all 381 players is: 5
+The total BLOOD MONEY PET for all 381 players is: 4
+The total GENIE PET for all 381 players is: 8
+The total DHAROK PET for all 381 players is: 1
+The total ZOMBIES CHAMPION PET for all 381 players is: 2
+The total ABYSSAL DEMON PET for all 381 players is: 3
+The total DARK BEAST PET for all 381 players is: 3
+The total BABY SQUIRT PET for all 381 players is: 5
+The total JALNIB REK PET for all 381 players is: 0
+The total CENTAUR MALE PET for all 381 players is: 1
+The total CENTAUR FEMALE PET for all 381 players is: 1
+The total CRYSTAL HELM for all 381 players is: 2
+The total CRYSTAL BODY for all 381 players is: 4
+The total CRYSTAL LEGS for all 381 players is: 5
+The total DARK ARMADYL HELMET for all 381 players is: 1
+The total DARK ARMADYL CHESTPLATE for all 381 players is: 2
+The total DARK ARMADYL CHAINSKIRT for all 381 players is: 1
+The total BOW OF FAERDHINEN for all 381 players is: 8

@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "bens",
+      "saleItem": {
+        "id": 12926,
+        "amount": 1
+      },
+      "price": 1000000,
+      "timeListed": 1650305253837,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

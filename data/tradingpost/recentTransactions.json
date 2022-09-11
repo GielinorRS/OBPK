@@ -1,0 +1,114 @@
+[
+  {
+    "sellerName": "2much",
+    "lastBuyerName": "Lost",
+    "saleItem": {
+      "id": 16456,
+      "amount": 1
+    },
+    "price": 550000,
+    "timeListed": 1648408441743,
+    "amountSold": 1,
+    "profit": 550000,
+    "transactionTime": 1648668410336,
+    "buyersInfo": [
+      "Lost"
+    ]
+  },
+  {
+    "sellerName": "itsdank",
+    "lastBuyerName": "Im Sorry",
+    "saleItem": {
+      "id": 20724,
+      "amount": 1
+    },
+    "price": 200000,
+    "timeListed": 1648578376874,
+    "amountSold": 1,
+    "profit": 200000,
+    "transactionTime": 1648607043741,
+    "buyersInfo": [
+      "Im Sorry"
+    ]
+  },
+  {
+    "sellerName": "herb",
+    "lastBuyerName": "Martian",
+    "saleItem": {
+      "id": 11804,
+      "amount": 1
+    },
+    "price": 40000,
+    "timeListed": 1648426983091,
+    "amountSold": 1,
+    "profit": 40000,
+    "transactionTime": 1648537820875,
+    "buyersInfo": [
+      "Martian"
+    ]
+  },
+  {
+    "sellerName": "itsdank2",
+    "lastBuyerName": "Dank",
+    "saleItem": {
+      "id": 21902,
+      "amount": 1
+    },
+    "price": 500000,
+    "timeListed": 1647541118578,
+    "amountSold": 1,
+    "profit": 500000,
+    "transactionTime": 1647541203185,
+    "buyersInfo": [
+      "Dank"
+    ]
+  },
+  {
+    "sellerName": "ourevilsins",
+    "lastBuyerName": "Zeus",
+    "saleItem": {
+      "id": 11802,
+      "amount": 1
+    },
+    "price": 5000,
+    "timeListed": 1645839374347,
+    "amountSold": 1,
+    "profit": 5000,
+    "transactionTime": 1645841485251,
+    "buyersInfo": [
+      "Zeus"
+    ]
+  },
+  {
+    "sellerName": "itsdank",
+    "lastBuyerName": "2much",
+    "saleItem": {
+      "id": 12807,
+      "amount": 1
+    },
+    "price": 20000,
+    "timeListed": 1648402831524,
+    "amountSold": 1,
+    "profit": 20000,
+    "transactionTime": 1648408560555,
+    "buyersInfo": [
+      "2much"
+    ]
+  },
+  {
+    "sellerName": "tj",
+    "lastBuyerName": "Allen",
+    "saleItem": {
+      "id": 16452,
+      "amount": 2
+    },
+    "price": 270000,
+    "timeListed": 1649530331355,
+    "amountSold": 1,
+    "profit": 270000,
+    "transactionTime": 1650183173599,
+    "buyersInfo": [
+      "Allen"
+    ]
+  }
+]

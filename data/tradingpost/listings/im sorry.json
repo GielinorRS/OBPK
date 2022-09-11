@@ -1,0 +1,30 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "im sorry",
+      "saleItem": {
+        "id": 20724,
+        "amount": 1
+      },
+      "price": 500000,
+      "timeListed": 1648647473812,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "im sorry",
+      "saleItem": {
+        "id": 16456,
+        "amount": 1
+      },
+      "price": 750000,
+      "timeListed": 1649128905211,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

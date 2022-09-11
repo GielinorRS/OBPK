@@ -1,0 +1,185 @@
+{
+  "help": {
+    "name": "help",
+    "owner": "help",
+    "slogan": "We are here to help",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": true,
+    "lock": false,
+    "memberLimit": 100,
+    "ranked": {
+      "help": "LEADER",
+      "zach": "LEADER",
+      "not hc": "GENERAL",
+      "chaotic jr": "GENERAL"
+    }
+  },
+  "zach": {
+    "name": "zach",
+    "owner": "zach",
+    "slogan": "Hi",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": false,
+    "lock": false,
+    "memberLimit": 100,
+    "ranked": {
+      "zach": "LEADER"
+    }
+  },
+  "zeus": {
+    "name": "zeus",
+    "owner": "zeus",
+    "slogan": "None",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": false,
+    "lock": false,
+    "memberLimit": 100,
+    "ranked": {
+      "zeus": "LEADER"
+    }
+  },
+  "newn00b": {
+    "name": "newn00b",
+    "owner": "newn00b",
+    "slogan": "None",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": false,
+    "lock": false,
+    "memberLimit": 100,
+    "ranked": {
+      "newn00b": "LEADER"
+    }
+  },
+  "evil": {
+    "name": "evil",
+    "owner": "evil",
+    "slogan": "None",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": false,
+    "lock": false,
+    "memberLimit": 100,
+    "ranked": {
+      "evil": "LEADER"
+    }
+  },
+  "r7": {
+    "name": "r7",
+    "owner": "r7",
+    "slogan": "None",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": false,
+    "lock": false,
+    "memberLimit": 100,
+    "ranked": {
+      "r7": "LEADER"
+    }
+  },
+  "randy": {
+    "name": "randy",
+    "owner": "randy",
+    "slogan": "None",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": false,
+    "lock": false,
+    "memberLimit": 100,
+    "ranked": {
+      "randy": "LEADER"
+    }
+  },
+  "r": {
+    "name": "r",
+    "owner": "r",
+    "slogan": "None",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": false,
+    "lock": false,
+    "memberLimit": 100,
+    "ranked": {
+      "r": "LEADER"
+    }
+  },
+  "bill clittin": {
+    "name": "bill clittin",
+    "owner": "bill clittin",
+    "slogan": "None",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": false,
+    "lock": false,
+    "memberLimit": 100,
+    "ranked": {
+      "bill clittin": "LEADER"
+    }
+  },
+  "davis": {
+    "name": "davis",
+    "owner": "davis",
+    "slogan": "None",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": false,
+    "lock": false,
+    "memberLimit": 100,
+    "ranked": {
+      "davis": "LEADER"
+    }
+  },
+  "sand casino": {
+    "name": "sand casino",
+    "owner": "sand casino",
+    "slogan": "None",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": false,
+    "lock": true,
+    "memberLimit": 100,
+    "ranked": {
+      "sand casino": "LEADER"
+    }
+  },
+  "endless": {
+    "name": "endless",
+    "owner": "endless",
+    "slogan": "None",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": false,
+    "lock": false,
+    "memberLimit": 100,
+    "ranked": {
+      "endless": "LEADER"
+    }
+  }
+}

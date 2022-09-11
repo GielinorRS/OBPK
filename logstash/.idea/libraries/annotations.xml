@@ -1,0 +1,70 @@
+<component name="libraryTable">
+  <library name="annotations">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ant-1.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/antlr-runtime-3.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apiguardian-api-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aws-java-sdk-ses-1.11.170.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bzip2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/c3p0-0.9.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-compress-1.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool2-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-text-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/config-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dawnguard-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/disruptor-3.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/everythingrs-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fastutil-8.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-28.2-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/HikariCP-3.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javassist-3.12.1.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jbcrypt-2y.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jboss-logging-3.3.2.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JDA-4.0.0_39-withDependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jedis-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsoup-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-jupiter-5.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-jupiter-api-5.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-platform-launcher-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-script-runtime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kryo-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mixpanel-java-1.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-all-4.1.31.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/postgresql-42.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/quasar-core-0.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/quasar-reactive-streams-0.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactive-streams-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reflections-0.9.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-nop-1.7.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/undertow-core-2.0.16.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/unsafe-mock-8.92.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xnio-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xnio-nio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xpp3_min-1.1.4c.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/netty-all-4.1.31.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.4.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.4.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-all-4.1.31.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
