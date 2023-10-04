@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ferox-C:jar">
+    <output-path>$PROJECT_DIR$/../../jarred</output-path>
+    <root id="archive" name="Ferox-C.jar">
+      <element id="module-output" name="Ferox-C" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Ferox-C/lib/gson-2.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Ferox-C/lib/commons-lang3-3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Ferox-C/lib/commons-lang3-3.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Ferox-C/lib/google-collect-1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

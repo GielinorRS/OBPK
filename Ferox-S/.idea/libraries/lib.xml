@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Ferox-C/lib/commons-lang3-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Ferox-C/lib/google-collect-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Ferox-C/lib/commons-lang3-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Ferox-C/lib/gson-2.8.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

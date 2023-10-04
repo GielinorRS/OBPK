@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Ferox-C/Ferox-C.iml" filepath="$PROJECT_DIR$/../Ferox-C/Ferox-C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ferox-S.iml" filepath="$PROJECT_DIR$/Ferox-S.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Obpk-Launcher/Obpk-Launcher.iml" filepath="$PROJECT_DIR$/../../Obpk-Launcher/Obpk-Launcher.iml" />
+    </modules>
+  </component>
+</project>

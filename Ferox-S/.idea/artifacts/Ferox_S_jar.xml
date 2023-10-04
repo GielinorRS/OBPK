@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Ferox-S:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ferox_S_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Ferox-S.jar">
+        <element id="module-output" name="Ferox-S" />
+      </element>
+    </root>
+  </artifact>
+</component>

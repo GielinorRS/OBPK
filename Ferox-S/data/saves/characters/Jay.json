@@ -1,0 +1,1340 @@
+{
+  "username": "Jay",
+  "password": "$2a$10$ksodYsCZT5hiMGz/2Ea2VO3/eMmoyO2DMtgyruHf0Kd2nTe8D4Ewq",
+  "title": "",
+  "titleColor": "",
+  "tile": {
+    "x": 3077,
+    "y": 3473,
+    "level": 0,
+    "firstChunkX": 384,
+    "firstChunkY": 434
+  },
+  "gameTime": 128034,
+  "runEnergy": 100.0,
+  "running": true,
+  "playerRights": "DEVELOPER",
+  "memberRights": "NONE",
+  "gameMode": "INSTANT_PKER",
+  "ironMode": "NONE",
+  "darkLordLives": 3,
+  "darkLordMeleeTier": 1,
+  "darkLordRangeTier": 1,
+  "darkLordMageTier": 1,
+  "lastIP": "127.0.0.1",
+  "mac": "04-D4-C4-58-B6-7F",
+  "accountPin": 0,
+  "askAccountPin": false,
+  "accountPinAttemptsLeft": 5,
+  "accountPinFrozenTicks": 0,
+  "creationDate": "Aug 25, 2022, 23:40:29 PM",
+  "creationIp": "127.0.0.1",
+  "lastLogin": "Dec 8, 2022, 05:27:00 AM",
+  "muted": false,
+  "lastBMClaim": 0,
+  "isCombatMaxed": false,
+  "starterWeaponDamage": 0,
+  "newPlayer": false,
+  "isBetaTester": false,
+  "veteran": false,
+  "veteranGiftClaimed": false,
+  "playtimeGiftClaimed": false,
+  "gambler": false,
+  "starterboxClaimed": false,
+  "clanBoxOpened": false,
+  "receivedMonthlySponsorRewards": false,
+  "receivedTopPkerReward": false,
+  "topPkerPosition": 0,
+  "female": false,
+  "looks": [
+    0,
+    10,
+    18,
+    26,
+    33,
+    36,
+    42
+  ],
+  "colors": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "spellBook": "NORMAL",
+  "fightType": "UNARMED_KICK",
+  "fightTypeVarp": 43,
+  "fightTypeVarpState": 1,
+  "autoRetaliate": false,
+  "previousSpellbook": "NORMAL",
+  "venomTicks": 0,
+  "poisonTicks": 0,
+  "specPercentage": 999850,
+  "recoilCharges": 40,
+  "targetSearchTimer": 0,
+  "specialAttackRestoreTimer": 0,
+  "skullTimer": 0,
+  "skullType": "NO_SKULL",
+  "quickPrayers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "presets": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "specialTeleblockTimer": 0,
+  "totalAmountPaid": 0.0,
+  "promoPaymentAmount": 0.0,
+  "promoItemsClaimed": 0,
+  "memberUnlocked": false,
+  "superMemberUnlocked": false,
+  "eliteMemberUnlocked": false,
+  "extremeMemberUnlocked": false,
+  "legendaryMemberUnlocked": false,
+  "vipUnlocked": false,
+  "sponsorMemberUnlocked": false,
+  "walkchaos": false,
+  "dynamicLevels": [
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    16,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "skillXP": [
+    1.3034431E7,
+    1.3034431E7,
+    1.3040391E7,
+    1.3036417666666664E7,
+    1.3034431E7,
+    1.3034431E7,
+    1.3034431E7,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    2796.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "activePetItemId": 0,
+  "unlockedPets": [],
+  "insuredPets": [],
+  "slayerTaskId": 0,
+  "slayerTaskAmount": 0,
+  "slayerMasterId": 0,
+  "slayerTaskStreak": 0,
+  "slayerTaskStreakRecord": 0,
+  "completedSlayerTasks": 0,
+  "wildernessSlayerActive": false,
+  "wildernessSlayerDescribed": false,
+  "slayerPartner": "None",
+  "blockedSlayerTasks": [],
+  "slayerUnlocks": {},
+  "slayerExtensionsList": {},
+  "inventory": [
+    {
+      "id": 11834,
+      "amount": 1
+    },
+    {
+      "id": 26374,
+      "amount": 1
+    },
+    {
+      "id": 20593,
+      "amount": 1
+    },
+    {
+      "id": 26348,
+      "amount": 1
+    },
+    {
+      "id": 26427,
+      "amount": 1
+    },
+    {
+      "id": 30226,
+      "amount": 1
+    },
+    {
+      "id": 26243,
+      "amount": 1
+    },
+    {
+      "id": 26241,
+      "amount": 1
+    },
+    {
+      "id": 26237,
+      "amount": 1
+    },
+    {
+      "id": 26382,
+      "amount": 1
+    },
+    {
+      "id": 26221,
+      "amount": 1
+    },
+    {
+      "id": 35,
+      "amount": 1
+    },
+    {
+      "id": 12436,
+      "amount": 1
+    },
+    {
+      "id": 26235,
+      "amount": 1
+    },
+    {
+      "id": 30241,
+      "amount": 1
+    },
+    {
+      "id": 26233,
+      "amount": 1
+    },
+    null,
+    {
+      "id": 30297,
+      "amount": 1
+    },
+    {
+      "id": 22981,
+      "amount": 1
+    },
+    {
+      "id": 21295,
+      "amount": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipment": [
+    {
+      "id": 26382,
+      "amount": 1
+    },
+    null,
+    null,
+    null,
+    {
+      "id": 26384,
+      "amount": 1
+    },
+    null,
+    null,
+    {
+      "id": 26386,
+      "amount": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "bank": [
+    {
+      "id": 4587,
+      "amount": 20000
+    },
+    {
+      "id": 1215,
+      "amount": 20000
+    },
+    {
+      "id": 4089,
+      "amount": 20000
+    },
+    {
+      "id": 4109,
+      "amount": 20000
+    },
+    {
+      "id": 4099,
+      "amount": 20000
+    },
+    {
+      "id": 7400,
+      "amount": 20000
+    },
+    {
+      "id": 3755,
+      "amount": 20000
+    },
+    {
+      "id": 1163,
+      "amount": 20000
+    },
+    {
+      "id": 1305,
+      "amount": 20000
+    },
+    {
+      "id": 4675,
+      "amount": 20000
+    },
+    {
+      "id": 4091,
+      "amount": 20000
+    },
+    {
+      "id": 4111,
+      "amount": 20000
+    },
+    {
+      "id": 4101,
+      "amount": 20000
+    },
+    {
+      "id": 7399,
+      "amount": 20000
+    },
+    {
+      "id": 3751,
+      "amount": 20000
+    },
+    {
+      "id": 1127,
+      "amount": 20000
+    },
+    {
+      "id": 1434,
+      "amount": 20000
+    },
+    {
+      "id": 9185,
+      "amount": 20000
+    },
+    {
+      "id": 4093,
+      "amount": 20000
+    },
+    {
+      "id": 4113,
+      "amount": 20000
+    },
+    {
+      "id": 4103,
+      "amount": 20000
+    },
+    {
+      "id": 7398,
+      "amount": 20000
+    },
+    {
+      "id": 3753,
+      "amount": 20000
+    },
+    {
+      "id": 1079,
+      "amount": 20000
+    },
+    {
+      "id": 5698,
+      "amount": 20000
+    },
+    {
+      "id": 10499,
+      "amount": 20000
+    },
+    {
+      "id": 4097,
+      "amount": 20000
+    },
+    {
+      "id": 4117,
+      "amount": 20000
+    },
+    {
+      "id": 4107,
+      "amount": 20000
+    },
+    {
+      "id": 2579,
+      "amount": 20000
+    },
+    {
+      "id": 3749,
+      "amount": 20000
+    },
+    {
+      "id": 4131,
+      "amount": 20000
+    },
+    {
+      "id": 2503,
+      "amount": 20000
+    },
+    {
+      "id": 2497,
+      "amount": 20000
+    },
+    {
+      "id": 12492,
+      "amount": 20000
+    },
+    {
+      "id": 12508,
+      "amount": 20000
+    },
+    {
+      "id": 12500,
+      "amount": 20000
+    },
+    {
+      "id": 3105,
+      "amount": 20000
+    },
+    {
+      "id": 1093,
+      "amount": 20000
+    },
+    {
+      "id": 1201,
+      "amount": 20000
+    },
+    {
+      "id": 3842,
+      "amount": 20000
+    },
+    {
+      "id": 12612,
+      "amount": 20000
+    },
+    {
+      "id": 12494,
+      "amount": 20000
+    },
+    {
+      "id": 12510,
+      "amount": 20000
+    },
+    {
+      "id": 12502,
+      "amount": 20000
+    },
+    {
+      "id": 6108,
+      "amount": 20000
+    },
+    {
+      "id": 6107,
+      "amount": 20000
+    },
+    {
+      "id": 6109,
+      "amount": 20000
+    },
+    {
+      "id": 2436,
+      "amount": 20000
+    },
+    {
+      "id": 2440,
+      "amount": 20000
+    },
+    {
+      "id": 2442,
+      "amount": 20000
+    },
+    {
+      "id": 2444,
+      "amount": 20000
+    },
+    {
+      "id": 3040,
+      "amount": 20000
+    },
+    {
+      "id": 10925,
+      "amount": 20000
+    },
+    {
+      "id": 3024,
+      "amount": 20000
+    },
+    {
+      "id": 6685,
+      "amount": 20000
+    },
+    {
+      "id": 145,
+      "amount": 20000
+    },
+    {
+      "id": 157,
+      "amount": 20000
+    },
+    {
+      "id": 163,
+      "amount": 20000
+    },
+    {
+      "id": 169,
+      "amount": 20000
+    },
+    {
+      "id": 3042,
+      "amount": 20000
+    },
+    {
+      "id": 10927,
+      "amount": 20000
+    },
+    {
+      "id": 3026,
+      "amount": 20000
+    },
+    {
+      "id": 6689,
+      "amount": 20000
+    },
+    {
+      "id": 147,
+      "amount": 20000
+    },
+    {
+      "id": 159,
+      "amount": 20000
+    },
+    {
+      "id": 165,
+      "amount": 20000
+    },
+    {
+      "id": 171,
+      "amount": 20000
+    },
+    {
+      "id": 3044,
+      "amount": 20000
+    },
+    {
+      "id": 10929,
+      "amount": 20000
+    },
+    {
+      "id": 3028,
+      "amount": 20000
+    },
+    {
+      "id": 6687,
+      "amount": 20000
+    },
+    {
+      "id": 149,
+      "amount": 20000
+    },
+    {
+      "id": 161,
+      "amount": 20000
+    },
+    {
+      "id": 167,
+      "amount": 20000
+    },
+    {
+      "id": 173,
+      "amount": 20000
+    },
+    {
+      "id": 3046,
+      "amount": 20000
+    },
+    {
+      "id": 10931,
+      "amount": 20000
+    },
+    {
+      "id": 3030,
+      "amount": 20000
+    },
+    {
+      "id": 6691,
+      "amount": 20000
+    },
+    {
+      "id": 385,
+      "amount": 20000
+    },
+    {
+      "id": 3144,
+      "amount": 20000
+    },
+    {
+      "id": 560,
+      "amount": 20000000
+    },
+    {
+      "id": 565,
+      "amount": 20000000
+    },
+    {
+      "id": 555,
+      "amount": 20000000
+    },
+    {
+      "id": 562,
+      "amount": 20000000
+    },
+    {
+      "id": 557,
+      "amount": 20000000
+    },
+    {
+      "id": 559,
+      "amount": 40000000
+    },
+    {
+      "id": 564,
+      "amount": 20000000
+    },
+    {
+      "id": 554,
+      "amount": 20000000
+    },
+    {
+      "id": 9075,
+      "amount": 20000000
+    },
+    {
+      "id": 556,
+      "amount": 20000000
+    },
+    {
+      "id": 563,
+      "amount": 20000000
+    },
+    {
+      "id": 566,
+      "amount": 20000000
+    },
+    {
+      "id": 561,
+      "amount": 20000000
+    },
+    {
+      "id": 9241,
+      "amount": 20000
+    },
+    {
+      "id": 9244,
+      "amount": 20000
+    },
+    {
+      "id": 9245,
+      "amount": 20000
+    },
+    {
+      "id": 9243,
+      "amount": 20000
+    },
+    {
+      "id": 9242,
+      "amount": 20000
+    },
+    {
+      "id": 892,
+      "amount": 20000
+    },
+    {
+      "id": 10828,
+      "amount": 20000
+    },
+    {
+      "id": 2412,
+      "amount": 20000
+    },
+    {
+      "id": 7458,
+      "amount": 20000
+    },
+    {
+      "id": 7462,
+      "amount": 20000
+    },
+    {
+      "id": 11978,
+      "amount": 20000
+    }
+  ],
+  "tabAmounts": [
+    48,
+    58,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "placeholdersActive": false,
+  "placeHolderAmount": 0,
+  "hashedBankPin": "No bank pin.",
+  "bankPinLength": 0,
+  "recoveryDelay": 3,
+  "lootingBag": [],
+  "askHowManyToStore": false,
+  "storeAsMany": false,
+  "runePouch": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "nifflerItems": [],
+  "totalCartValue": 0,
+  "cartItems": [],
+  "newFriends": [],
+  "newIgnores": [],
+  "clan": "obpk",
+  "yellColour": "000000",
+  "dontAskAgainEldritch": false,
+  "dontAskAgainVolatile": false,
+  "dontAskAgainHarmonised": false,
+  "currencyCollection": false,
+  "emptyPotionVials": false,
+  "gold_ags_spec": false,
+  "gold_bgs_spec": false,
+  "gold_sgs_spec": false,
+  "gold_zgs_spec": false,
+  "xpLocked": false,
+  "levelUpMessages": true,
+  "enableDidYouKnow": true,
+  "enableDebugMessages": true,
+  "savePresetLevels": false,
+  "openPresetsOnDeath": false,
+  "savedDuelConfig": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "autoRepairBrokenItems": false,
+  "votePoints": 24961,
+  "pestControlPoints": 0,
+  "slayerRewardPoints": 0,
+  "targetPoints": 0,
+  "eloRating": 1300,
+  "bossPoints": 0,
+  "teleportToTargetUnlocked": false,
+  "preserve": false,
+  "rigour": false,
+  "augury": false,
+  "botKills": 0,
+  "botDeaths": 0,
+  "kills": 0,
+  "deaths": 0,
+  "allTimeKills": 0,
+  "allTimeDeaths": 0,
+  "killstreak": 0,
+  "highestKillstreak": 0,
+  "wildernessStreak": 0,
+  "shutdownRecord": 0,
+  "recentKills": [],
+  "firstKillOfTheDay": 1661648701440,
+  "targetKills": 0,
+  "kingBlackDragonsKilled": 0,
+  "vetionsKilled": 0,
+  "crazyArchaeologistsKilled": 0,
+  "zulrahsKilled": 0,
+  "alchysKilled": 0,
+  "krakensKilled": 0,
+  "revenantsKilled": 0,
+  "ancientRevenantsKilled": 0,
+  "ancientKingBlackDragonsKilled": 0,
+  "corruptedHunleffsKilled": 0,
+  "ancientChaosElementalsKilled": 0,
+  "ancientBarrelchestsKilled": 0,
+  "kerberosKilled": 0,
+  "arachneKilled": 0,
+  "skorpiosKilled": 0,
+  "artioKilled": 0,
+  "jadsKilled": 0,
+  "chaosElementalsKilled": 0,
+  "demonicGorillasKilled": 0,
+  "barrelchestsKilled": 0,
+  "corporealBeastsKilled": 0,
+  "abyssalSiresKilled": 0,
+  "vorkathsKilled": 0,
+  "lizardmanShamansKilled": 0,
+  "barrowsChestsOpened": 0,
+  "corruptedNechryarchsKilled": 0,
+  "fluffysKilled": 0,
+  "dementorsKilled": 0,
+  "hungarianHorntailsKilled": 0,
+  "fenrirGreybacksKilled": 0,
+  "scorpiasKilled": 0,
+  "callistosKilled": 0,
+  "molesKilled": 0,
+  "nightmaresKilled": 0,
+  "rexKilled": 0,
+  "primeKilled": 0,
+  "supremeKilled": 0,
+  "kalphiteQueensKilled": 0,
+  "lavaDragonsKilled": 0,
+  "skotizosKilled": 0,
+  "zombieChampionsKilled": 0,
+  "brutalLavaDragonsKilled": 0,
+  "tektonsKilled": 0,
+  "chaosFanaticsKilled": 0,
+  "thermonuclearSmokeDevilKilled": 0,
+  "venenatisKilled": 0,
+  "aragogKC": 0,
+  "chamberOfSecretRuns": 0,
+  "smokeDevilKills": 0,
+  "superiorCreatureKills": 0,
+  "crawlingHandKills": 0,
+  "caveBugKills": 0,
+  "caveCrawlerKills": 0,
+  "bansheeKills": 0,
+  "caveSlimeKills": 0,
+  "rockslugKills": 0,
+  "desertLizardKills": 0,
+  "cockatriceKills": 0,
+  "pyrefiendKills": 0,
+  "mogreKills": 0,
+  "harpieBugSwarmKills": 0,
+  "wallBeastKills": 0,
+  "killerwattKills": 0,
+  "molaniskKills": 0,
+  "basiliskKills": 0,
+  "seaSnakeKills": 0,
+  "terrorDogKills": 0,
+  "feverSpiderKills": 0,
+  "infernalMageKills": 0,
+  "brineRatKills": 0,
+  "bloodveldKills": 0,
+  "jellyKills": 0,
+  "turothKills": 0,
+  "zygomiteKills": 0,
+  "caveHorrorKills": 0,
+  "aberrantSpectreKills": 0,
+  "spiritualWarriorKills": 0,
+  "kuraskKills": 0,
+  "skeletalWyvernKills": 0,
+  "gargoyleKills": 0,
+  "nechryaelKills": 0,
+  "spiritualMageKills": 0,
+  "abyssalDemonKills": 0,
+  "caveKrakenKills": 0,
+  "darkBeastKills": 0,
+  "brutalBlackDragonKills": 0,
+  "fossilIslandWyvernKills": 0,
+  "wyrmKills": 0,
+  "drakeKills": 0,
+  "hydraKills": 0,
+  "basiliskKnightKills": 0,
+  "menInBlackKills": 0,
+  "bossTimers": {},
+  "recentTeleports": [
+    "BARB_AGILITY",
+    "CORRUPTED_NECHRYARCH",
+    "ROCK_CRABS",
+    "FIGHT_CAVE",
+    "PEST_CONTROL"
+  ],
+  "favoriteTeleports": [],
+  "collectionLog": {},
+  "achievements": {
+    "DRAGON_SLAYER_I": 0,
+    "PVP_II": 0,
+    "DRAGON_SLAYER_IV": 0,
+    "WHATS_IN_THE_BOX_I": 0,
+    "SAND_CRAB_HUNTER": 0,
+    "KEEP_IT_100_I": 0,
+    "CRYSTAL_LOOTER_II": 0,
+    "SKILLER_III": 0,
+    "ULTIMATE_CHAOS_II": 0,
+    "TSJERNOBYL_I": 0,
+    "PUNCHING_BAGS_III": 0,
+    "BEAR_GRYLLS_I": 0,
+    "PURE_III": 0,
+    "GODWAR": 0,
+    "PVP_III": 0,
+    "CRYSTAL_LOOTER_I": 0,
+    "BOUNTY_HUNTER_II": 0,
+    "YAK_HUNTER": 0,
+    "VORKY_III": 0,
+    "BARROWS_I": 0,
+    "DR_CURT_CONNORS_III": 0,
+    "MASTER_THIEF": 0,
+    "PET_TAMER_I": 0,
+    "LARRANS_LOOTER_III": 0,
+    "MAGE_ARENA_IV": 0,
+    "PVP_I": 0,
+    "VOTE_FOR_US_II": 0,
+    "REVENANT_HUNTER_I": 0,
+    "BARK_SCORPION_II": 0,
+    "TSJERNOBYL_III": 0,
+    "ZERKER_III": 0,
+    "LARRANS_LOOTER_II": 0,
+    "ZERKER_IV": 0,
+    "VETION_II": 0,
+    "TASK_MASTER_III": 0,
+    "BARROWS_II": 0,
+    "LORD_OF_THE_RINGS_II": 0,
+    "BARK_SCORPION_I": 0,
+    "BOUNTY_HUNTER_III": 0,
+    "DR_CURT_CONNORS_I": 0,
+    "CORPOREAL_CRITTER": 0,
+    "FLUFFY_I": 0,
+    "BLOODTHIRSTY_III": 0,
+    "ULTIMATE_CHAOS_I": 0,
+    "EXTREME_DEEP_WILD_II": 0,
+    "LARRANS_LOOTER_I": 0,
+    "LORD_OF_THE_RINGS_I": 0,
+    "BLOODTHIRSTY_I": 0,
+    "AMPUTEE_ANNIHILATION_I": 0,
+    "DR_CURT_CONNORS_II": 0,
+    "REVENANT_HUNTER_III": 0,
+    "BUG_EXTERMINATOR_I": 0,
+    "THIEF_IV": 0,
+    "HOLEY_MOLEY_III": 0,
+    "BARROWS_III": 0,
+    "DRAGON_SLAYER_II": 0,
+    "CRYSTAL_LOOTER_III": 0,
+    "BUG_EXTERMINATOR_II": 0,
+    "PURE_I": 0,
+    "FLUFFY_II": 0,
+    "PURE_IV": 0,
+    "PUNCHING_BAGS_II": 0,
+    "TASK_MASTER_II": 0,
+    "ROCK_CRAB_HUNTER": 12,
+    "ULTIMATE_CHAOS_III": 0,
+    "BABY_ARAGOG_I": 0,
+    "SURVIVOR_I": 0,
+    "BEAR_GRYLLS_II": 0,
+    "BLOODTHIRSTY_II": 0,
+    "BABY_ARAGOG_II": 0,
+    "FIGHT_CAVES_I": 0,
+    "THIEF_II": 0,
+    "TSJERNOBYL_II": 0,
+    "SNAKE_CHARMER_II": 0,
+    "SURVIVOR_II": 0,
+    "SQUIDWARD_II": 0,
+    "SKILLER_I": 0,
+    "KEEP_IT_100_III": 0,
+    "PURE_II": 0,
+    "EXPERIMENTS_HUNTER": 0,
+    "BOUNTY_HUNTER_I": 0,
+    "SQUIDWARD_III": 0,
+    "PUNCHING_BAGS_I": 0,
+    "BARK_SCORPION_III": 0,
+    "WHATS_IN_THE_BOX_II": 0,
+    "VOTE_FOR_US_III": 0,
+    "MAGE_ARENA_I": 0,
+    "PET_TAMER_II": 0,
+    "REVENANT_HUNTER_IV": 0,
+    "VETION_III": 0,
+    "REVENANT_HUNTER_II": 0,
+    "ZERKER_I": 0,
+    "DEEP_WILD_III": 0,
+    "HOLEY_MOLEY_II": 0,
+    "BARROWS_V": 0,
+    "BABY_ARAGOG_III": 0,
+    "COMPLETIONIST": 0,
+    "FIGHT_CAVES_III": 0,
+    "BEAR_GRYLLS_III": 0,
+    "EXTREME_DEEP_WILD_I": 0,
+    "BARROWS_IV": 0,
+    "FIGHT_CAVES_II": 0,
+    "SKILLER_IV": 0,
+    "THIEF_III": 0,
+    "MAGE_ARENA_III": 0,
+    "ZERKER_II": 0,
+    "HOLEY_MOLEY_I": 0,
+    "SKILLER_II": 0,
+    "VORKY_I": 0,
+    "VETION_I": 0,
+    "WHATS_IN_THE_BOX_III": 0,
+    "TASK_MASTER_I": 0,
+    "THIEF_I": 0,
+    "SQUIDWARD_I": 0,
+    "DHAROK_BOMBER_I": 0,
+    "MAGE_ARENA_II": 0,
+    "VOTE_FOR_US_I": 0,
+    "DHAROK_BOMBER_II": 0,
+    "SNAKE_CHARMER_III": 0,
+    "AMPUTEE_ANNIHILATION_II": 0,
+    "DEEP_WILD_I": 0,
+    "VORKY_II": 0,
+    "EXTREME_DEEP_WILD_III": 0,
+    "KEEP_IT_100_II": 0,
+    "DEEP_WILD_II": 0,
+    "DHAROK_BOMBER_III": 0,
+    "DRAGON_SLAYER_III": 0,
+    "SNAKE_CHARMER_I": 0,
+    "AMPUTEE_ANNIHILATION_III": 0
+  },
+  "achievementsCompleted": 0,
+  "antiFireResistant": false,
+  "venomResistant": false,
+  "rockyBalboaTitle": false,
+  "task": "NONE",
+  "taskAmount": 0,
+  "taskCompletionAmount": 0,
+  "totalTasksCompleted": 0,
+  "canClaimTaskReward": false,
+  "playerKillsWithoutLeavingWild": 0,
+  "treasuresOpened": 0,
+  "referalMilestone10hoursPassed": false,
+  "referalMilestone1dayPassed": false,
+  "referrerUsername": "",
+  "referralsCount": 0,
+  "databaseId": -1,
+  "referalMilestone3refs": false,
+  "staminaTicks": 0,
+  "overloadTicks": 0,
+  "antifireTicks": 0,
+  "superAntiFire": false,
+  "larranKeysUsed": 0,
+  "earningPotential": 120,
+  "enchantedAGSAttempts": 0,
+  "enchantedBGSAttempts": 0,
+  "enchantedSGSAttempts": 0,
+  "enchantedZGSAttempts": 0,
+  "enchantedFuryAttempts": 0,
+  "enchantedOccultAttempts": 0,
+  "enchantedTortureAttempts": 0,
+  "enchantedAnguishAttempts": 0,
+  "enchantedBNeckAttempts": 0,
+  "enchantedGmaulAttempts": 0,
+  "enchantedTBraceAttempts": 0,
+  "enchantedDDefAttempts": 0,
+  "enchantedDBootsAttempts": 0,
+  "enchantedRunePouchAttempts": 0,
+  "enchantedDClawsAttempts": 0,
+  "enchantedROMAttempts": 0,
+  "enchantedROSAttempts": 0,
+  "enchantedROPAttempts": 0,
+  "enchantedROTAttempts": 0,
+  "enchantedSlayerHelmIAttempts": 0,
+  "enchantedGreenSlayerHelmIAttempts": 0,
+  "enchantedTurquoiseSlayerHelmIAttempts": 0,
+  "enchantedRedSlayerHelmIAttempts": 0,
+  "enchantedBlackSlayerHelmIAttempts": 0,
+  "enchantedTwistedSlayerHelmIAttempts": 0,
+  "larransKeyIIAttempts": 0,
+  "larransKeyIIIAttempts": 0,
+  "blowpipeAttempts": 0,
+  "twistedBowAttempts": 0,
+  "ancestralHatAttempts": 0,
+  "ancestralTopAttempts": 0,
+  "ancestralBottomAttempts": 0,
+  "primordialBootsAttempts": 0,
+  "infernalCapeAttempts": 0,
+  "sanguistiStaffAttempts": 0,
+  "ghraziRapierAttempts": 0,
+  "scytheOfViturAttempts": 0,
+  "pegasianBootsAttempts": 0,
+  "eternalBootsAttempts": 0,
+  "viggorasChainmaceAttempts": 0,
+  "crawsBowAttempts": 0,
+  "thammaronsStaffAttempts": 0,
+  "corruptedBootsAttempts": 0,
+  "ancientFaceguardAttempts": 0,
+  "toxicStaffOfTheDeadAttempts": 0,
+  "armourMysteryBoxesOpened": 0,
+  "donatorMysteryBoxesOpened": 0,
+  "legendaryMysteryBoxesOpened": 0,
+  "petMysteryBoxesOpened": 0,
+  "regularMysteryBoxesOpened": 0,
+  "weaponMysteryBoxesOpened": 0,
+  "presentMysteryBoxesOpened": 0,
+  "epicPetMysteryBoxesOpened": 0,
+  "raidsMysteryBoxesOpened": 0,
+  "zenyteMysteryBoxesOpened": 0,
+  "mysteryChestsOpened": 0,
+  "raresFromMysteryBox": 0,
+  "slayerKeysOpened": 0,
+  "slayerKeysReceived": 0,
+  "doubleExpTicks": 0,
+  "dropRateLampTicks": 3911,
+  "ethereumAbsorption": false,
+  "jailed": 0,
+  "jailOresToEscape": 0,
+  "jailOresMined": 0,
+  "locBeforeJail": {
+    "x": 3092,
+    "y": 3500,
+    "level": 0,
+    "firstChunkX": 386,
+    "firstChunkY": 437
+  },
+  "tournamentWins": 0,
+  "tournamentPoints": 0,
+  "lostCannon": false,
+  "wildernessCourseState": 0,
+  "edgePvpDailyAmount": 0,
+  "edgePvpDailyCompleted": false,
+  "edgePvpDailyRewardClaimed": false,
+  "revCavePvpDailyAmount": 0,
+  "revCavePvpDailyCompleted": false,
+  "revCavePvpDailyRewardClaimed": false,
+  "deepWildPvpDailyAmount": 0,
+  "deepWildPvpDailyCompleted": false,
+  "deepWildPvpDailyRewardClaimed": false,
+  "purePvpeDailyAmount": 0,
+  "purePvpDailyCompleted": false,
+  "purePvpDailyRewardClaimed": false,
+  "zekerPvpDailyAmount": 0,
+  "zekerPvpDailyCompleted": false,
+  "zekerPVPDailyRewardClaimed": false,
+  "tierUpgradePvpDailyAmount": 0,
+  "tierUpgradePvpDailyCompleted": false,
+  "tierUpgradePvpDailyRewardClaimed": false,
+  "noArmPvpDailyAmount": 0,
+  "noArmPvpDailyCompleted": false,
+  "noArmPvpDailyRewardClaimed": false,
+  "dharokPvpDailyAmount": 0,
+  "dharokPvpDailyCompleted": false,
+  "dharokPvpDailyRewardClaimed": false,
+  "botsPvpDailyAmount": 0,
+  "botsPvpDailyCompleted": false,
+  "botsPvpDailyRewardClaimed": false,
+  "tourneyParticipationDailyAmount": 0,
+  "tourneyParticipationDailyCompleted": false,
+  "tourneyParticipationDailyRewardClaimed": false,
+  "dailyRaidsDailyAmount": 0,
+  "dailyRaidsDailyCompleted": false,
+  "dailyRaidsDailyRewardClaimed": false,
+  "worldBossDailyDailyAmount": 0,
+  "worldBossDailyDailyCompleted": false,
+  "worldBossDailyRewardClaimed": false,
+  "revenantsDailyAmount": 0,
+  "revenantsDailyCompleted": false,
+  "revenantsDailyRewardClaimed": false,
+  "battleMageDailyAmount": 0,
+  "battleMageDailyCompleted": false,
+  "battleMageDailyRewardClaimed": false,
+  "wildernessBossDailyAmount": 0,
+  "wildernessBossDailyCompleted": false,
+  "wildernessBossDailyRewardClaimed": false,
+  "zulrahDailyAmount": 0,
+  "zulrahDailyCompleted": false,
+  "zulrahDailyRewardClaimed": false,
+  "slayerDailyAmount": 0,
+  "slayerDailyCompleted": false,
+  "slayerDailyRewardClaimed": false,
+  "corruptedNechryarchDailyAmount": 0,
+  "corruptedNechryarchDailyCompleted": false,
+  "corruptedNechryarchDailyRewardClaimed": false,
+  "vorkathDailyAmount": 0,
+  "vorkathDailyCompleted": false,
+  "vorkathDailyRewardClaimed": false,
+  "corporealBeastDailyAmount": 0,
+  "corporealBeastDailyCompleted": false,
+  "corporealBeastDailyRewardClaimed": false,
+  "wildyRunnerDailyAmount": 0,
+  "wildyRunnerDailyCompleted": false,
+  "wildyRunnerDailyRewardClaimed": false,
+  "alchemicalHydraLogClaimed": false,
+  "ancientBarrelchestLogClaimed": false,
+  "ancientChaosElementalLogClaimed": false,
+  "ancientKingBlackDragonLogClaimed": false,
+  "arachneLogClaimed": false,
+  "artioLogClaimed": false,
+  "barrelchestLogClaimed": false,
+  "brutalLavaDragonLogClaimed": false,
+  "callistoLogClaimed": false,
+  "cerberusLogClaimed": false,
+  "chaosElementalLogClaimed": false,
+  "chaosFanaticLogClaimed": false,
+  "corporealBeastLogClaimed": false,
+  "corruptedNechryarchLogClaimed": false,
+  "crazyArchaeologistLogClaimed": false,
+  "demonicGorillaLogClaimed": false,
+  "giantMoleLogClaimed": false,
+  "kerberosLogClaimed": false,
+  "kingBlackDragonLogClaimed": false,
+  "krakenLogClaimed": false,
+  "lavaDragonLogClaimed": false,
+  "lizardmanShamanLogClaimed": false,
+  "scorpiaLogClaimed": false,
+  "skorpiosLogClaimed": false,
+  "skotizoLogClaimed": false,
+  "tektonLogClaimed": false,
+  "thermonuclearSmokeDevilLogClaimed": false,
+  "theNightmareLogClaimed": false,
+  "corruptedHunleffLogClaimed": false,
+  "menInBlackLogClaimed": false,
+  "tztokJadLogClaimed": false,
+  "venenatisLogClaimed": false,
+  "vetionLogClaimed": false,
+  "vorkathLogClaimed": false,
+  "zombiesChampionLogClaimed": false,
+  "zulrahLogClaimed": false,
+  "armourMysteryBoxLogClaimed": false,
+  "donatorMysteryBoxLogClaimed": false,
+  "epicPetMysteryBoxLogClaimed": false,
+  "mysteryChestLogClaimed": false,
+  "raidsMysteryBoxLogClaimed": false,
+  "weaponMysteryBoxLogClaimed": false,
+  "legendaryMysteryBoxLogClaimed": false,
+  "zenyteLogClaimed": false,
+  "crystalKeyLogClaimed": false,
+  "larransKeyTierILogClaimed": false,
+  "larransKeyTierIILogClaimed": false,
+  "larransKeyTierIIILogClaimed": false,
+  "slayerKeyLogClaimed": false,
+  "wildernessKeyLogClaimed": false,
+  "ancientRevenantsLogClaimed": false,
+  "chamberOfSecretsLogClaimed": false,
+  "revenantsLogClaimed": false,
+  "slayerLogClaimed": false,
+  "lastDailyReset": 7,
+  "finishedHalloweenDialogue": false,
+  "candiesTraded": -1,
+  "eventReward1Claimed": false,
+  "eventReward2Claimed": false,
+  "eventReward3Claimed": false,
+  "eventReward4Claimed": false,
+  "eventReward5Claimed": false,
+  "eventReward6Claimed": false,
+  "eventReward7Claimed": false,
+  "eventReward8Claimed": false,
+  "eventReward9Claimed": false,
+  "eventReward10Claimed": false,
+  "eventReward11Claimed": false,
+  "eventReward12Claimed": false,
+  "eventReward13Claimed": false,
+  "eventReward14Claimed": false,
+  "eventReward15Claimed": false,
+  "eventReward16Claimed": false,
+  "eventReward17Claimed": false,
+  "eventReward18Claimed": false,
+  "eventReward19Claimed": false,
+  "eventReward20Claimed": false,
+  "eventReward21Claimed": false,
+  "eventReward22Claimed": false,
+  "eventReward23Claimed": false,
+  "eventReward24Claimed": false,
+  "eventReward25Claimed": false,
+  "eventReward26Claimed": false,
+  "eventReward27Claimed": false,
+  "eventReward28Claimed": false,
+  "eventReward29Claimed": false,
+  "eventReward30Claimed": false,
+  "eventReward31Claimed": false,
+  "eventReward32Claimed": false,
+  "eventReward33Claimed": false,
+  "eventReward34Claimed": false,
+  "eventReward35Claimed": false,
+  "eventReward36Claimed": false,
+  "eventReward37Claimed": false,
+  "eventReward38Claimed": false,
+  "eventReward39Claimed": false,
+  "eventReward40Claimed": false,
+  "eventReward41Claimed": false,
+  "eventReward42Claimed": false,
+  "eventReward43Claimed": false,
+  "eventReward44Claimed": false,
+  "hweenEventTokensSpent": 0
+}

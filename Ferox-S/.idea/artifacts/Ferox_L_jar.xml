@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ferox-L:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ferox_L_jar</output-path>
+    <root id="archive" name="Ferox-L.jar">
+      <element id="module-output" name="Ferox-L" />
+    </root>
+  </artifact>
+</component>

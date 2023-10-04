@@ -1,0 +1,26 @@
+<configuration>
+    <appender name="consoleAppender" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>[%d{dd.MM.yyyy HH:mm:ss.SSS}] %-5level - %m%n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="fileAppender" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${user.home}/emulous/logs/client.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${user.home}/emulous/logs/client-%d{yyyy-MM}.%i.log.gz</fileNamePattern>
+            <maxHistory>3</maxHistory>
+            <maxFileSize>10MB</maxFileSize>
+            <totalSizeCap>15MB</totalSizeCap>
+        </rollingPolicy>
+        <encoder>
+            <pattern>[%d{dd.MM.yyyy HH:mm:ss.SSS}] %-5level - %m%n</pattern>
+        </encoder>
+    </appender>
+
+
+    <root level="all">
+        <appender-ref ref="consoleAppender"/>
+        <appender-ref ref="fileAppender"/>
+    </root>
+</configuration>
